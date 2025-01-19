@@ -1,7 +1,7 @@
 # Dofus Hunt  
 
 **Dofus Hunt** est un logiciel gratuit conçu pour vous aider à réaliser vos chasses aux trésors sur le jeu **Dofus**.  
-⚠️ **Ce n’est pas un bot !** Le logiciel ne demande **jamais** vos identifiants Ankama et agit uniquement comme un outil d’assistance.  
+⚠️ **Ce n’est pas un bot !** Le logiciel ne demande **jamais** vos identifiants Ankama, et agit uniquement comme un outil d’assistance visuelle sans aucune interaction directe avec le client ou le jeu.
 
 ---
 
