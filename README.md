@@ -38,7 +38,7 @@
 
 ## 🚨 Signaler un bug ou proposer une amélioration  
 Vous pouvez signaler un problème ou partager vos idées via :  
-- Le serveur Discord officiel : [https://discord.gg/xx6fjAzNmN](https://discord.gg/xx6fjAzNmN).  
+- Le serveur Discord officiel : [Discord](https://discord.gg/7Yecr3UGVJ).  
 
 ---
 
