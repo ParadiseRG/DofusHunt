@@ -31,7 +31,7 @@
 ---
 
 ## ⚙️ Configuration initiale  
-- Consultez la [documentation](https://github.com/ParadiseRG/DofusHunt/blob/main/Doc%20Dofus%20Hunt%20v1.1.pdf) pour configurer correctement le logiciel.  
+- Consultez la [documentation]([https://github.com/ParadiseRG/DofusHunt/blob/main/Doc%20Dofus%20Hunt%20v1.1.pdf) pour configurer correctement le logiciel.  
 - Effectuez un calibrage des captures d’écran et des templates pour une reconnaissance optimale.  
 
 ---
